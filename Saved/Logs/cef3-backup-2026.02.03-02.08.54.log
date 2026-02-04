@@ -1,0 +1,16 @@
+[15592:756:0202/180639.453:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15592:16172:0202/180639.504:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15592:756:0202/180639.540:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15592:756:0202/180642.206:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[22352:1860:0202/180644.128:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D8EDBC416309FEEDC6051D5BC3361E33 will be ignored
+[15592:7240:0202/180645.464:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[15592:756:0202/180646.478:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15592:756:0202/180646.478:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15592:756:0202/180646.478:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15592:756:0202/180646.478:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15592:7240:0202/180646.483:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15592:756:0202/180647.851:ERROR:device_event_log_impl.cc(196)] [18:06:47.836] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[15592:7240:0202/180651.597:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15592:7240:0202/180651.597:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[24792:11996:0202/180854.851:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[24792:11996:0202/180854.851:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.

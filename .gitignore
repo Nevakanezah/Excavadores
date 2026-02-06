@@ -1,0 +1,6 @@
+*.log
+*.log
+/Saved/Crashes
+/Saved/Logs
+/Saved/Config/CrashReportClient
+/Saved/Autosaves
